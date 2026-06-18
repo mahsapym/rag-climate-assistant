@@ -1,0 +1,6 @@
+.env
+data/chroma_db/
+data/papers/
+__pycache__/
+*.pyc
+.DS_Store
